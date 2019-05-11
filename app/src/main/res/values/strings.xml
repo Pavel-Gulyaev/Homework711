@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework 7-1-1</string>
+    <string name="SyncBtn">Синхронизация</string>
+    <string name="morning_activity">Morning Activity</string>
+    <string name="startBtn">Запуск</string>
+    <string name="afternoon_activity">Afternoon Activity</string>
+    <string name="evening_activity">Evening Activity</string>
+</resources>
